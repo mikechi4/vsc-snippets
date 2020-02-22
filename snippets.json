@@ -1,0 +1,7 @@
+{
+	"React-Native Screen Template" : {
+		"prefix": ["rn-screen"],
+		"body": ["import React from 'react';", "import {Text, View, StyleSheet} from 'react-native';", "", "const $TM_FILENAME_BASE = () => {", "\t return(", "\t\t<View>","\t\t\t<Text>Hello from $TM_FILENAME_BASE</Text>","\t\t</View>","\t);","}","","const styles = StyleSheet.create({});", "", "export default $TM_FILENAME_BASE;"],
+		"description": "A template for react native screens"
+	}
+}
